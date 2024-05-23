@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "name": "Khichuri",
+        "price": "60.00",
+        "rate": "4.5",
+        "inventory": "150",
+        "image": "images/plate-008.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Tandoori Chicken",
+        "price": "96.00",
+        "rate": "4.9",
+        "inventory": "200",
+        "image": "images/plate-001.png"
+    },
+    {
+        "id": "2",
+        "name": "Fish Fry",
+        "price": "80.00",
+        "rate": "4.5",
+        "inventory": "168",
+        "image": "images/plate-002.png"
+    },
+    {
+        "id": "3",
+        "name": "Noodles",
+        "price": "40.00",
+        "rate": "4.7",
+        "inventory": "150",
+        "image": "images/plate-009.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Rice and meat",
+        "price": "220.00",
+        "rate": "4.8",
+        "inventory": "150",
+        "image": "images/plate-003.png"
+    },
+    {
+        "id": "5",
+        "name": "Vegitables",
+        "price": "70",
+        "rate": "4.2",
+        "inventory": "150",
+        "image": "images/plate-007.png"
+    },
+    {
+        "id": "6",
+        "name": "Pastry",
+        "price": "120.00",
+        "rate": "4.6",
+        "inventory": "10",
+        "image": "images/plate-006.png"
+    }
+]
