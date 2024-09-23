@@ -84,7 +84,7 @@ class _HomeState extends State<Home> {
     },
     {
       'name': 'Drinks',
-      'image': 'images/Icon-005.png',
+      'image': 'images/Icon-003.png',
     },
   ];
 
@@ -123,7 +123,7 @@ class _HomeState extends State<Home> {
                   ? Container(
                       margin: const EdgeInsets.only(
                         top: 30.0,
-                        bottom: 15.0,
+                        bottom: 30.0,
                       ),
                       child: const Text(
                         'Please scan your ID card to view your profile',
