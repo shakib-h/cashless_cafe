@@ -281,6 +281,10 @@ class _CartState extends State<Cart> with TickerProviderStateMixin {
                         child: ElevatedButton(
                           onPressed: () {
                             checkout();
+                            SnackBar snackBar = const SnackBar(
+                              content: Text('Order placed successfully!'),
+                              duration: Duration(seconds: 2),
+                            );
                           },
                           style: ElevatedButton.styleFrom(
                             primary: theme.primaryColor,
